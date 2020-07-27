@@ -1,0 +1,22 @@
+body{
+text-align: center;
+margin: 0;
+padding: 0;
+}
+
+p{
+    margin-top: 2em;
+    font-size: 23px;
+    color: blueviolet;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.encabezado{
+    color: cornflowerblue;
+    /* margin-top: 300px;
+    margin-bottom: 300px; */
+    background-color: cornflowerblue;
+    padding-top: 100px ;
+    margin: 0;
+
+}
