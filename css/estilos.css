@@ -12,11 +12,18 @@ p{
 }
 
 .encabezado{
-    color: cornflowerblue;
-    /* margin-top: 300px;
-    margin-bottom: 300px; */
-    background-color: cornflowerblue;
+    background-color: rgb(216, 236, 37);
     padding-top: 100px ;
     margin: 0;
+}
+.encabezado1{
+    background-color: rgb(10, 67, 173);
+    padding-top: 100px ;
+    margin: 0;
+}
 
+.encabezado2{
+    background-color: rgb(233, 20, 20);
+    padding-top: 100px ;
+    margin: 0;
 }
