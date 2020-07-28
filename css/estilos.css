@@ -4,10 +4,11 @@ margin: 0;
 padding: 0;
 }
 
+
 p{
     margin-top: 2em;
     font-size: 23px;
-    color: blueviolet;
+    color: gray;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
